@@ -1,0 +1,1 @@
+copy setting.xml into bin/debug
